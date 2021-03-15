@@ -12,7 +12,8 @@
         "moneda": "USD",
         "genero": "Rock",
         "formato": "CD",
-        "año": "2016" 
+        "año": "2016",
+        "estilo": "Alternative Rock"
       },
       {
         "id": 2,
@@ -26,7 +27,9 @@
         "moneda": "EUR",
         "genero": "Pop",
         "formato": "Vinyl",
-        "año": "2012" 
+        "año": "2012",
+        "estilo": "Punk"
+
       },
       {
         "id": 3,
@@ -40,7 +43,9 @@
         "moneda": "GBP",
         "genero": "Pop",
         "formato": "Cassette",
-        "año": "2004" 
+        "año": "2004",
+        "estilo": "Power Pop"
+ 
       },
       {
         "id": 4,
@@ -54,7 +59,9 @@
         "moneda": "CAD",
         "genero": "Rock",
         "formato": "SACD",
-        "año": "1995"
+        "año": "1995",
+        "estilo": "Alternative Rock"
+
       },
       {
         "id": 5,
@@ -68,7 +75,9 @@
         "moneda": "AUD",
         "genero": "Rock",
         "formato": "CD",
-        "año": "1994"
+        "año": "1994",
+        "estilo": "Indie Rock"
+
       },
       {
         "id": 6,
@@ -82,7 +91,9 @@
         "moneda": "USD",
         "genero": "Rock",
         "formato": "CD",
-        "año": "1994"
+        "año": "1994",
+        "estilo": "Alternative Rock"
+
       },
       {
         "id": 7,
@@ -96,7 +107,9 @@
         "moneda": "EUR",
         "genero": "Pop",
         "formato": "Vinyl",
-        "año": "2012"
+        "año": "2012",
+        "estilo": "Grunge"
+
       },
       {
         "id": 8,
@@ -110,7 +123,9 @@
         "moneda": "GBP",
         "genero": "Rock",
         "formato": "CD",
-        "año": "2016"
+        "año": "2016",
+        "estilo": "Indie Rock"
+
       }
     ]
   }
